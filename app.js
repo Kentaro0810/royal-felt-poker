@@ -1,5 +1,5 @@
 "use strict";
-const SUITS=['♠','♥','♦','♣'],RANKS=['2','3','4','5','6','7','8','9','T','J','Q','K','A'];
+const SUITS=['♠','♥','♦','♣'],RANKS=['2','3','4','5','6','7','8','9','10','J','Q','K','A'];
 const NAMES=['あなた','Victor','Mia','Leon','Sofia','Rex','Ivy','Noah','Luna'];
 const POS=[[50,95],[18,87],[5,62],[12,26],[34,8],[66,8],[88,26],[95,62],[82,87]];
 let G,AUDIO=true,timer;
