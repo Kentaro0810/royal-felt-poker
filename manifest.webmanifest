@@ -1,0 +1,9 @@
+{
+  "name": "Royal Felt 9-MAX Hold'em",
+  "short_name": "Royal Felt",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#07120e",
+  "theme_color": "#07120e",
+  "lang": "ja"
+}
